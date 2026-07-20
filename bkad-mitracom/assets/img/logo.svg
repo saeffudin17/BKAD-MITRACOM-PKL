@@ -1,0 +1,5 @@
+<svg width="52" height="52" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="26" cy="26" r="26" fill="#0A3D62"/>
+  <path d="M26 10 L40 17 V25 C40 33.5 34 40.5 26 43 C18 40.5 12 33.5 12 25 V17 Z" fill="#F2B705"/>
+  <text x="26" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#0A3D62" text-anchor="middle">MST</text>
+</svg>
